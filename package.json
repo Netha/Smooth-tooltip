@@ -1,0 +1,28 @@
+{
+  "name": "smooth-tooltip",
+  "version": "1.0.0",
+  "description": "smooth animated css tooltip",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Netha/Smooth-tooltip.git"
+  },
+  "keywords": [
+    "tooltip",
+    "css"
+  ],
+  "author": "Netha.M.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Netha/Smooth-tooltip/issues"
+  },
+  "homepage": "https://github.com/Netha/Smooth-tooltip#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.11.0",
+    "scss-compile": "^0.1.7"
+  }
+}
